@@ -1,6 +1,18 @@
-p {
+.aboutme {
 margin-left:25px;
 }
 .headshot{
     margin-right:25px;
+}
+
+nav  .navbar-nav li a{
+    color: white !important;
+    }
+a.navbar-brand{
+
+    color: white;
+}
+
+.contact{
+    margin-left: 25px;
 }
